@@ -1,2 +1,2 @@
 # ShellScripts
-A collection of shell scripts that I use to make my life easier.
+This repository is a collection of shell scripts and functions that help save me time and make my life easier.
